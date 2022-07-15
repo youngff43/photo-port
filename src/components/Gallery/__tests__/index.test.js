@@ -21,3 +21,4 @@ describe('Gallery is rendering', () => {
     expect(getByTestId('h1tag')).toHaveTextContent('Portraits')
   })
 })
+
